@@ -1,0 +1,8 @@
+ - A function has "constant" growth if its output does not change based on the input, the nnn. 
+The easy way to identify constant functions is find those that have no nnn in their expression anywhere, or have n^0n 
+ - A function has "linear" growth if its output increases linearly with the size of its input. 
+The way to identify linear functions is find those where nnn is never raised to a poweror used as a power. 
+ - A function has "polynomial" growth if its output increases according to a polynomial expression. 
+The way to identify polynomial functions is to find those where nnn is raised to some constant power.
+ - A  function has "exponential" growth if its output increases according to an exponential expression. 
+The way to identify exponential functions is to find those where a constant is raised to some expression involving nn
